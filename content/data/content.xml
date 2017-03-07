@@ -1,0 +1,1518 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-109599.46626519617" y="-60475.62316190667" width="200375.73253039233" height="120288.84632381334"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <spellcheck active="false"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="57_70923283" type="button" x="-9411.6" y="-331.2" r="0" s="102.26904125472993" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1963.1758894609893</w>
+        <h>1180.0607150991962</h>
+      </size>
+    </object>
+    <object id="1_24309637" type="button" x="-9801.671154895412" y="-94.8934660743625" r="0" s="82.56273276935396" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>2182.820333080745</w>
+        <h>1225.0707121285425</h>
+      </size>
+      <meta>
+        <parentTemplate>revitalize-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="0_24309637" type="button" x="-81601.11969286401" y="-25669.59453773987" r="0" s="16.60340470686533" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>revitalize-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="3_24309637" type="button" x="-89535.81534861102" y="-100.84804415690652" r="0" s="15.353500710116041" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>revitalize-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="7_24309637" type="button" x="-46416.005715451945" y="-19311.68253320296" r="0" s="18.970960227751362" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>revitalize-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="11_24309637" type="button" x="-58804.559399552316" y="39568.99534166779" r="0" s="14.15904686796348" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>revitalize-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="19_24309637" type="text" x="-89538.20379438178" y="-4460.755032085663" r="0" s="31.69478088948792" class="strong">
+      <height>31.9921875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Purpose of Project]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_24309637"/>
+      </layout>
+    </object>
+    <object id="20_24309637" type="text" x="-89536.43893826035" y="-2475.0822865521327" r="0" s="21.971789128779896" class="body">
+      <height>55.1953125</height>
+      <width>474.92372417529094</width>
+      <p align="center">
+        <text><![CDATA[Human face plays an important role in extraction of individual's emotion state.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="3_24309637"/>
+      </layout>
+    </object>
+    <object id="23_24309637" type="text" x="-46177.85709818316" y="-24700.980205162337" r="0" s="44.578971950897184" class="strong">
+      <height>31.9921875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Existing System]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="7_24309637"/>
+      </layout>
+    </object>
+    <object id="10_24309637" type="button" x="-50055.84731810911" y="-18139.5680297157" r="0" s="5.970060625253556" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.0000000000006</h>
+      </size>
+      <meta>
+        <parentTemplate>revitalize-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="7_24309637"/>
+      </layout>
+    </object>
+    <object id="3_69009371" type="image" x="-51793.35004939492" y="-17918.601982562133" r="0" s="4.942954886159025">
+      <source w="450" h="470">3805305998<mask x="56" y="48" w="78" h="77"/>
+      <url>3805305998.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fthumb1.shutterstock.com%2Fdisplay_pic_with_logo%2F334312%2F138362180%2Fstock-vector-media-icon-set-vector-pictograms-for-web-computer-and-mobile-apps-play-pause-stop-eject-end-138362180.jpg</sourceUrl>
+    <resource><id>3805305998</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/d/a/916b41c247188ba11a6cd9424a60ee20ad21d.jpe</url></resource></object>
+    <object id="24_24309637" type="text" x="-46176.25775162546" y="-22221.594537739875" r="0" s="26.247621327411164" class="body">
+      <height>55.1953125</height>
+      <width>513.4203596824843</width>
+      <p align="center">
+        <text><![CDATA[Current Music players have features such as play, play next, play previous, pause, shuffle]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="7_24309637"/>
+      </layout>
+    </object>
+    <object id="25_24309637" type="text" x="-58806.26955345532" y="35496.65222094176" r="0" s="44.57897195089705" class="strong">
+      <height>31.9921875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Limitations]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="11_24309637"/>
+      </layout>
+    </object>
+    <object id="26_24309637" type="text" x="-58804.58101969283" y="37316.40909957637" r="0" s="26.247621327411117" class="body">
+      <height>27.59765625</height>
+      <width>390.9237784827681</width>
+      <p align="center">
+        <text><![CDATA[Manual Selection of songs.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="11_24309637"/>
+      </layout>
+    </object>
+    <object id="54_70923283" type="button" x="9958.781239648319" y="-37210.597561431496" r="0" s="73.49931321234052" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>827.1541442871094</w>
+        <h>154.8163495800348</h>
+      </size>
+    </object>
+    <object id="12_24309637" type="text" x="3007.080307135986" y="-45539.74453773987" r="0" s="136.31430084425583" class="head">
+      <height>31.9921875</height>
+      <width>362.2781096816163</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Emotion Based Music Player]]></text>
+      </p>
+    </object>
+    <object id="9_24309637" type="text" x="-89546.78270851274" y="2917.578857049483" r="-3.3242625683681916e-15" s="21.971789128779896" class="body">
+      <height>137.98828125</height>
+      <width>479.02053469447577</width>
+      <p align="center">
+        <text><![CDATA[Therefore we aim to build an application that focuses on reducing human efforts by generating a playlist based]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[ on Human facial expression.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="6_24309637"/>
+      </layout>
+    </object>
+    <object id="9_69009371" type="image" x="-48109.69523513714" y="-18401.366692410284" r="0" s="4.109367484095237">
+      <source w="450" h="470">3805316999<mask x="314" y="307" w="80" h="82"/>
+      <url>3805316999.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fthumb1.shutterstock.com%2Fdisplay_pic_with_logo%2F334312%2F138362180%2Fstock-vector-media-icon-set-vector-pictograms-for-web-computer-and-mobile-apps-play-pause-stop-eject-end-138362180.jpg</sourceUrl>
+    <resource><id>3805316999</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/2/6/cdebe78bdae5eb9b7354d313fa04af85a4c36.jpe</url></resource></object>
+    <object id="7_69009371" type="image" x="-48800.09703682016" y="-19658.68108783355" r="0" s="4.661801655247083">
+      <source w="450" h="470">3805314632<mask x="142" y="134" w="80" h="76"/>
+      <url>3805314632.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fthumb1.shutterstock.com%2Fdisplay_pic_with_logo%2F334312%2F138362180%2Fstock-vector-media-icon-set-vector-pictograms-for-web-computer-and-mobile-apps-play-pause-stop-eject-end-138362180.jpg</sourceUrl>
+    <resource><id>3805314632</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/e/e/2939d00ec129e72b0881cc9b5f813de6a090a.jpe</url></resource></object>
+    <object id="16_24309637" type="button" x="-43770.312698313326" y="-16208.9302634995" r="0" s="5.970060625253556" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>revitalize-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="child" parent-id="7_24309637"/>
+      </layout>
+    </object>
+    <object id="4_69009371" type="image" x="-51388.56215287026" y="-19221.42220325026" r="0" s="4.8281273315569395">
+      <source w="450" h="470">3805308890<mask x="142" y="47" w="79" h="79"/>
+      <url>3805308890.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fthumb1.shutterstock.com%2Fdisplay_pic_with_logo%2F334312%2F138362180%2Fstock-vector-media-icon-set-vector-pictograms-for-web-computer-and-mobile-apps-play-pause-stop-eject-end-138362180.jpg</sourceUrl>
+    <resource><id>3805308890</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/a/8/f/bb1f5d639102bd987dd303eae3053f037a9e5.jpe</url></resource></object>
+    <object id="5_69009371" type="image" x="-50511.27795386808" y="-18493.33307949844" r="0" s="4.4934824954277515">
+      <source w="450" h="470">3805312211<mask x="228" y="46" w="83" h="83"/>
+      <url>3805312211.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fthumb1.shutterstock.com%2Fdisplay_pic_with_logo%2F334312%2F138362180%2Fstock-vector-media-icon-set-vector-pictograms-for-web-computer-and-mobile-apps-play-pause-stop-eject-end-138362180.jpg</sourceUrl>
+    <resource><id>3805312211</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/c/2/a/87de7237723d61115dd010046d85389e7316f.jpe</url></resource></object>
+    <object id="6_69009371" type="image" x="-49965.657375635135" y="-17391.007300101865" r="0" s="4.85103808495837">
+      <source w="450" h="470">3805312346<mask x="59" y="136" w="77" h="75"/>
+      <url>3805312346.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fthumb1.shutterstock.com%2Fdisplay_pic_with_logo%2F334312%2F138362180%2Fstock-vector-media-icon-set-vector-pictograms-for-web-computer-and-mobile-apps-play-pause-stop-eject-end-138362180.jpg</sourceUrl>
+    <resource><id>3805312346</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/7/8/623f774f4e64433c8e4dc08c0f52265ee156e.jpe</url></resource></object>
+    <object id="8_69009371" type="image" x="-48711.071937275636" y="-17643.788710140732" r="0" s="4.183764428483036">
+      <source w="450" h="470">3805316936<mask x="228" y="303" w="82" h="86"/>
+      <url>3805316936.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fthumb1.shutterstock.com%2Fdisplay_pic_with_logo%2F334312%2F138362180%2Fstock-vector-media-icon-set-vector-pictograms-for-web-computer-and-mobile-apps-play-pause-stop-eject-end-138362180.jpg</sourceUrl>
+    <resource><id>3805316936</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/2/f/6/c8ad14d5ad0d592a1713b2681ed8c328b643d.jpe</url></resource></object>
+    <object id="10_69009371" type="image" x="-51012.44713026462" y="-16709.012148827962" r="0" s="4.8068361327005125">
+      <source w="450" h="470">3805319222<mask x="230" y="133" w="81" h="76"/>
+      <url>3805319222.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fthumb1.shutterstock.com%2Fdisplay_pic_with_logo%2F334312%2F138362180%2Fstock-vector-media-icon-set-vector-pictograms-for-web-computer-and-mobile-apps-play-pause-stop-eject-end-138362180.jpg</sourceUrl>
+    <resource><id>3805319222</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/1/b/ec040a6237b7d28790c09eee188229b052295.jpe</url></resource></object>
+    <object id="11_69009371" type="image" x="-49300.05724836346" y="-16391.154004077114" r="0" s="4.771685249834396">
+      <source w="450" h="470">3805320605<mask x="315" y="134" w="80" h="76"/>
+      <url>3805320605.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fthumb1.shutterstock.com%2Fdisplay_pic_with_logo%2F334312%2F138362180%2Fstock-vector-media-icon-set-vector-pictograms-for-web-computer-and-mobile-apps-play-pause-stop-eject-end-138362180.jpg</sourceUrl>
+    <resource><id>3805320605</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/b/8/2f05a0b34a86f1ff97679e6118bf5dc3c3b0d.jpe</url></resource></object>
+    <object id="12_69009371" type="image" x="-50135.27077458557" y="-20053.221823332697" r="0" s="1.2291840746281588">
+      <source w="1024" h="1024">3805324250<mask x="489" y="485" w="296" h="296"/>
+      <url>3805324250.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fst.depositphotos.com%2F1169275%2F982%2Fv%2F950%2Fdep_9822617-Audio-music-icons.jpg</sourceUrl>
+    <resource><id>3805324250</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/1/1/1311c9d22665518c2aefe437286551f937fa1.jpe</url></resource></object>
+    <object id="13_69009371" type="image" x="-49419.29546870824" y="-18856.722411893574" r="0" s="1.5250769395904933">
+      <source w="1024" h="1024">3805324412<mask x="25" y="514" w="265" h="242"/>
+      <url>3805324412.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fst.depositphotos.com%2F1169275%2F982%2Fv%2F950%2Fdep_9822617-Audio-music-icons.jpg</sourceUrl>
+    <resource><id>3805324412</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/3/d/8/1ea66eb317d6b27fe6729ef05fb0e36196120.jpe</url></resource></object>
+    <object id="14_69009371" type="button" x="-39584.490795908896" y="24638.523784131157" r="0" s="16.194477009595413" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="15_69009371" type="button" x="-24807.20469625215" y="-87.13631909248755" r="0" s="16.194477009595413" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="60_69009371" type="image" x="-81600.71969286409" y="-25451.344537739868" r="0" s="10.774215426386867">
+      <source w="411" h="409">4443426341<url>4443426341.png</url></source>
+      <sourceUrl>android.png</sourceUrl>
+    <resource><id>4443426341</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/0/8/2140781c317be3bba85e2553a81712facfafb.png</url></resource></object>
+    <object id="17_69009371" type="text" x="-81493.16969286403" y="-28742.944537739888" r="0" s="45.539935165253006" class="body">
+      <height>27.59765625</height>
+      <width>-205.4765625</width>
+      <p align="center">
+        <text><![CDATA[Android Application]]></text>
+      </p>
+    </object>
+    <object id="0_69009371" type="text" x="-89536.95696572012" y="-242.98358231332742" r="0" s="21.971789128779896" class="body">
+      <height>82.79296875</height>
+      <width>560.9546184697559</width>
+      <p align="center">
+        <text><![CDATA[Manually segregating the list of songs and generating an appropriate playlist based on an individual's emotion feature is tedious.]]></text>
+      </p>
+    </object>
+    <object id="1_69009371" type="image" x="-44708.92469975593" y="-16297.644230212503" r="0" s="1.4555160530677056">
+      <source w="1080" h="1920">3811118651<url>3811118651.png</url></source>
+      <sourceUrl>Screenshot.png</sourceUrl>
+    <resource><id>3811118651</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/a/a/f362c1099824b8a4165cc978bd801e1682aa2.png</url></resource></object>
+    <object id="16_69009371" type="image" x="-42945.99691160611" y="-16016.165961568631" r="0" s="1.5078468946792118">
+      <source w="1080" h="1920">3811126295<mask x="0" y="78" w="1080" h="1842"/>
+      <url>3811126295.png</url></source>
+      <sourceUrl>Screenshot_2015-09-28-21-52-16.png</sourceUrl>
+    <resource><id>3811126295</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/9/0/322a9362f5faed2defaa9eb878d80857c1c06.png</url></resource></object>
+    <object id="2_69009371" type="text" x="-58804.77645639422" y="39324.25361374481" r="0" s="26.247621327411117" class="body">
+      <height>55.1953125</height>
+      <width>480.7214513002221</width>
+      <p align="center">
+        <text><![CDATA[Randomly played/Shuffled songs ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[may not match the mood of the user.]]></text>
+      </p>
+    </object>
+    <object id="19_69009371" type="text" x="-58804.889170615446" y="42272.8713014315" r="0" s="26.247621327411117" class="body">
+      <height>110.390625</height>
+      <width>367.2313366392984</width>
+      <p align="center">
+        <text><![CDATA[Emotion based Music players now in use are less accurate, time consuming and do not ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[cover all emotions.]]></text>
+      </p>
+    </object>
+    <object id="20_69009371" type="text" x="-39603.214637963465" y="23421.46822641482" r="0" s="26.247621327411068" class="body">
+      <height>110.390625</height>
+      <width>381.54521052829256</width>
+      <p align="center">
+        <text><![CDATA[This system will generate a playlist based on the facial expression extracted from captured image of the person]]></text>
+      </p>
+    </object>
+    <object id="21_69009371" type="text" x="-39531.76360604882" y="20327.229809137338" r="0" s="44.3726932452831" class="strong">
+      <height>31.9921875</height>
+      <width>-182.9296875</width>
+      <p>
+        <text><![CDATA[Proposed System]]></text>
+      </p>
+    </object>
+    <object id="23_69009371" type="text" x="-24808.205210334683" y="-4836.365845896631" r="0" s="44.57897195089689" class="strong">
+      <height>31.9921875</height>
+      <width>-124.5703125</width>
+      <p>
+        <text><![CDATA[Advantages]]></text>
+      </p>
+    </object>
+    <object id="24_69009371" type="text" x="-24806.53571808775" y="-2805.51476098325" r="0" s="26.247621327411053" class="body">
+      <height>27.59765625</height>
+      <width>-126.75</width>
+      <p>
+        <text><![CDATA[Ease of use]]></text>
+      </p>
+    </object>
+    <object id="25_69009371" type="text" x="-24808.205210334683" y="-737.7594777355846" r="0" s="26.247621327411053" class="body">
+      <height>27.59765625</height>
+      <width>-234.796875</width>
+      <p>
+        <text><![CDATA[Mixed mood detection]]></text>
+      </p>
+    </object>
+    <object id="38_69009371" type="button" x="-14934.798769129062" y="39567.9433206632" r="0" s="18.513054523026156" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="46_69009371" type="image" x="-14933.690115602309" y="40662.07846543598" r="0" s="13.260081105889238">
+      <source w="800" h="810">4352207525<url>4352207525.png</url></source>
+      <sourceUrl>Emotion%20Based%20Music%20Player%20%20Sequence.png</sourceUrl>
+    <resource><id>4352207525</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/7/c/73ca30941d8496b4dfc30839f16beef13c954.png</url></resource></object>
+    <object id="26_69009371" type="text" x="-24806.65847879785" y="1483.3612782520295" r="0" s="26.247621327411053" class="body">
+      <height>27.59765625</height>
+      <width>442.07890625</width>
+      <p align="center">
+        <text><![CDATA[Improved accuracy]]></text>
+      </p>
+    </object>
+    <object id="27_69009371" type="text" x="-24790.34341061976" y="3992.781002999116" r="0" s="26.247621327411053" class="body">
+      <height>27.59765625</height>
+      <width>-304.171875</width>
+      <p>
+        <text><![CDATA[Reduced computational time]]></text>
+      </p>
+    </object>
+    <object id="42_70923283" type="button" x="46785.5489878798" y="-14173.067716406153" r="0" s="13.295492300899284" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="0_70923283" type="button" x="-83191.70001850162" y="29353.670101305688" r="0" s="15.32005081885065" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="2_70923283" type="text" x="-83416.53830651035" y="24715.518961746795" r="0" s="35.08448381327079" class="strong">
+      <height>31.9921875</height>
+      <width>-91.265625</width>
+      <p>
+        <text><![CDATA[Abstract]]></text>
+      </p>
+    </object>
+    <object id="4_70923283" type="text" x="-83032.22078842903" y="27357.917254590975" r="0" s="20.055029890009695" class="body">
+      <height>110.390625</height>
+      <width>502.52013662390453</width>
+      <p align="center">
+        <text><![CDATA[The project is to develop an Emotion Based Music Player,which is an android application meant for users to minimize their efforts in managing large playlists.]]></text>
+      </p>
+    </object>
+    <object id="5_70923283" type="text" x="-83178.77872878569" y="30124.20859617054" r="0" s="20.055029890009695" class="body">
+      <height>82.79296875</height>
+      <width>552</width>
+      <p align="center">
+        <text><![CDATA[ The proposed model will extract user’s facial expressions and features to determine the current mood of the user. ]]></text>
+      </p>
+    </object>
+    <object id="6_70923283" type="text" x="-83204.88567691752" y="32751.928645457006" r="0" s="20.055029890009695" class="body">
+      <height>82.79296875</height>
+      <width>497.35</width>
+      <p align="center">
+        <text><![CDATA[Once the emotion Is detected, playlist of songs suitable to the mood of the user will ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[be presented to him.]]></text>
+      </p>
+    </object>
+    <object id="7_70923283" type="button" x="-64338.2558313918" y="5769.904344167742" r="0" s="13.295492300899284" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="9_70923283" type="button" x="34922.53069078163" y="19422.273614235957" r="0" s="9.496780214928071" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="10_70923283" type="text" x="-64212.12186274099" y="2120.5710725665654" r="0" s="30.44803766880479" class="strong">
+      <height>31.9921875</height>
+      <width>-192.57421875</width>
+      <p>
+        <text><![CDATA[Literature Survey]]></text>
+      </p>
+    </object>
+    <object id="11_70923283" type="text" x="34902.91272641185" y="16500.408521172336" r="0" s="26.592283573702623" class="strong">
+      <height>31.9921875</height>
+      <width>-91.23046875</width>
+      <p>
+        <text><![CDATA[Modules]]></text>
+      </p>
+    </object>
+    <object id="12_70923283" type="button" x="33241.66213177469" y="18885.167875301362" r="0" s="3.5567559021514086" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="13_70923283" type="button" x="35024.498502833485" y="21472.42078848504" r="0" s="3.5567559021514086" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="14_70923283" type="text" x="33266.469857806085" y="17984.164957603578" r="0" s="6.48868897905645" class="strong">
+      <height>31.9921875</height>
+      <width>-300.8671875</width>
+      <p>
+        <text><![CDATA[Emotion Extraction Module]]></text>
+      </p>
+    </object>
+    <object id="18_70923283" type="image" x="34040.35587063726" y="19311.450409700632" r="0" s="2.1892084592122405">
+      <source w="220" h="220">3819660815<url>3819660815.jpg</url></source>
+      <sourceUrl>face2.jpg</sourceUrl>
+    <resource><id>3819660815</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/a/bd574b5fcce9ec8d885ddd4979d940d0cb7fc.jpg</url></resource></object>
+    <object id="17_70923283" type="image" x="32693.93920271942" y="19392.201658327394" r="0" s="1.3235933674845384">
+      <source w="721" h="400">3819655754<url>3819655754.jpg</url></source>
+      <sourceUrl>face1.jpg</sourceUrl>
+    <resource><id>3819655754</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/f/a/d5b9d800cd8683be556c0211e90e905230f57.jpg</url></resource></object>
+    <object id="15_70923283" type="text" x="33266.74192179437" y="18594.274979932077" r="0" s="4.877627013037116" class="body">
+      <height>193.18359375</height>
+      <width>436.25390625</width>
+      <p align="center">
+        <text><![CDATA[Image of the user is captured through camera and stored.]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[The image is converted to a binary image format, put into bitmap and then processed by performing mathematical calculations.]]></text>
+      </p>
+    </object>
+    <object id="19_70923283" type="image" x="33389.40301076717" y="19931.29388615114" r="0" s="2.5722305952142688">
+      <source w="220" h="110">3819668477<url>3819668477.jpg</url></source>
+      <sourceUrl>face3.jpg</sourceUrl>
+    <resource><id>3819668477</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/9/7/bc9c5b40cf18365a7b9858cc87001494a91c9.jpg</url></resource></object>
+    <object id="20_70923283" type="text" x="35047.93930044614" y="20580.426111397257" r="0" s="7.612009417201208" class="strong">
+      <height>31.9921875</height>
+      <width>-192.41015625</width>
+      <p>
+        <text><![CDATA[Audio Extraction ]]></text>
+      </p>
+    </object>
+    <object id="21_70923283" type="text" x="35024.4192663164" y="21310.099049464086" r="0" s="4.942863257922867" class="body">
+      <height>82.79296875</height>
+      <width>409.8515625</width>
+      <p align="center">
+        <text><![CDATA[In this module,the List of files in the sdcard forms the input.]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="26_70923283" type="button" x="37116.017752977416" y="19592.34786364739" r="0" s="2.3102961011923826" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="27_70923283" type="text" x="37127.5285186023" y="18963.46007376609" r="0" s="5.515895182394221" class="strong">
+      <height>63.984375</height>
+      <width>231.2292134478202</width>
+      <p align="center">
+        <text><![CDATA[Emotion-Audio Integration]]></text>
+      </p>
+    </object>
+    <object id="28_70923283" type="text" x="37125.73542438418" y="19345.534499691243" r="0" s="2.536470408107397" class="body">
+      <height>137.98828125</height>
+      <width>631.95</width>
+      <p align="center">
+        <text><![CDATA[Emotions extracted for the songs are stored as a meta-data in the database (form of a hashmap)]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[ Mapping is performed by querying the meta-data database.]]></text>
+      </p>
+    </object>
+    <object id="29_70923283" type="image" x="37121.926081621954" y="19838.238025934148" r="0" s="2.349722184480962">
+      <source w="436" h="287">3819991793<mask x="40" y="11" w="371" h="226"/>
+      <url>3819991793.PNG</url></source>
+      <sourceUrl>ppt3.PNG</sourceUrl>
+    <resource><id>3819991793</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/5/7/1c81c3b8ba646585f1919a7eee4a21323d7b8.PNG</url></resource></object>
+    <object id="30_70923283" type="button" x="35946.32009758861" y="17849.167986954337" r="0" s="1.5963431317952361" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="31_70923283" type="image" x="35679.28808865842" y="17657.440499758573" r="0" s="1.5639827213068878">
+      <source w="279" h="180">3811601894<url>3811601894.jpg</url></source>
+      <sourceUrl>angry.jpg</sourceUrl>
+    <resource><id>3811601894</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/e/d/4473225e15f4625d1aaddcc6d52c32b3488c3.jpg</url></resource></object>
+    <object id="32_70923283" type="image" x="36155.630307136" y="17657.355462260133" r="0" s="1.4846085580581514">
+      <source w="275" h="183">3811601942<url>3811601942.jpg</url></source>
+      <sourceUrl>depressed.jpg</sourceUrl>
+    <resource><id>3811601942</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/d/d/e83997e5af22f02bae0c6196b5692e1bba874.jpg</url></resource></object>
+    <object id="33_70923283" type="image" x="35679.22012428864" y="18017.243873460946" r="0" s="0.16963717758811173">
+      <source w="2560" h="1920">3811605791<url>3811605791.jpg</url></source>
+      <sourceUrl>Crying-girl.jpg</sourceUrl>
+    <resource><id>3811605791</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/0/a/ed3ade7b34a755268c38de19bcca47d8fbf61.jpg</url></resource></object>
+    <object id="34_70923283" type="image" x="36153.339567988536" y="18049.119162895495" r="0" s="1.5037385867893946">
+      <source w="296" h="170">3811601867<url>3811601867.jpg</url></source>
+      <sourceUrl>happy.jpg</sourceUrl>
+    <resource><id>3811601867</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/a/d/7e53389bb7cbcb5af2a24a46ce7ec751ffb73.jpg</url></resource></object>
+    <object id="35_70923283" type="text" x="35946.25213321884" y="17389.65769693078" r="0" s="2.7185747918575744" class="strong">
+      <height>31.9921875</height>
+      <width>-183.12890625</width>
+      <p>
+        <text><![CDATA[Some Examples..]]></text>
+      </p>
+    </object>
+    <object id="36_70923283" type="button" x="71444.3356044479" y="-8662.798852272726" r="0" s="15.01311698457933" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="37_70923283" type="text" x="71433.12148343147" y="-12687.988653466831" r="0" s="44.57897195089705" class="strong">
+      <height>31.9921875</height>
+      <width>-142.7109375</width>
+      <p>
+        <text><![CDATA[Future Scope]]></text>
+      </p>
+    </object>
+    <object id="38_70923283" type="text" x="71432.7399145666" y="-9578.497887094174" r="0" s="17.974048210628563" class="body">
+      <height>193.18359375</height>
+      <width>582.0259408259245</width>
+      <p align="center">
+        <text><![CDATA[The future scope in the system would to design a mechanism  that would be helpful in music therapy treatment and provide the music therapist the help needed to treat the patients suffering from disorders like mental stress, anxiety, acute depression and trauma.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="39_70923283" type="text" x="71515.9998603432" y="-5947.749782565772" r="0" s="17.974048210628563" class="body">
+      <height>137.98828125</height>
+      <width>590.2998862627443</width>
+      <p align="center">
+        <text><![CDATA[The proposed system also tends to avoid in future]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[ the unpredictable results produced in extreme bad light conditions and very poor]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[camera resolution. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ ]]></text>
+      </p>
+    </object>
+    <object id="43_70923283" type="text" x="46861.64822196869" y="-18284.059964568238" r="0" s="44.57897195089705" class="strong">
+      <height>31.9921875</height>
+      <width>-116.89453125</width>
+      <p>
+        <text><![CDATA[References]]></text>
+      </p>
+    </object>
+    <object id="49_70923283" type="text" x="46863.50000000001" y="-13938.75" r="0" s="16.34004382784415" class="body">
+      <height>413.96484375</height>
+      <width>484.447613597339</width>
+      <p align="center">
+        <text><![CDATA[[1] Emotion Based Music Player by Nikhil Zaware,Tejas Rajgure, Amey Bhadang, D.D Sapkal.]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[[2] Emotion-based Music Visualization using Photos]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Chin-Han Chen, Ming-Fang Weng, Shyh-Kang Jeng, and Yung-Yu Chuang]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[[3] https://github.com/Microsoft/ProjectOxford-ClientSDK/]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[ [4] http://mir.dei.uc.pt/pdf/Theses/MOODetector/Fernandes%20MSc%20Thesis%202010]]></text>
+      </p>
+    </object>
+    <object id="50_70923283" type="button" x="55689.128545762076" y="-30463.010832744712" r="0" s="6.783414439234341" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="51_70923283" type="text" x="55170.81004668042" y="-30551.76002592549" r="0" s="26.16431491131174" class="strong">
+      <height>31.9921875</height>
+      <width>-130.3125</width>
+      <p>
+        <text><![CDATA[Thank You..]]></text>
+      </p>
+    </object>
+    <object id="52_70923283" type="image" x="57564.33541800935" y="-30584.20704819472" r="0" s="10.400690527132712">
+      <source w="107" h="111" bt="-54.55" bl="-53.55">606723455<url>606723455.swf</url></source>
+      <resource>
+        <id>606723455</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/7/a/6d5fdff5700907937a69c2b461a84ec9d3d06.swf</url>
+      </resource>
+      <sourceUrl>smile.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="53_70923283" type="text" x="20661.120743489213" y="-35908.82217690945" r="0" s="77.55402456443167" class="head">
+      <style fontFamily="custom-arimo" font-family="Arimo"/>
+      <style fontFamily="custom-arimo" font-family="Arimo"/>
+      <height>55.1953125</height>
+      <width>446.070472093959</width>
+      <p>
+        <text><![CDATA[HariPriya Y   (1602-12-737-007)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Kavya  K       (1602-12-737-012)]]></text>
+      </p>
+    </object>
+    <object id="55_70923283" type="text" x="-81492.12317253367" y="-30805.032956825587" r="0" s="38.52896861470393" class="strong">
+      <height>31.9921875</height>
+      <width>-124.6171875</width>
+      <p>
+        <text><![CDATA[Broad Area]]></text>
+      </p>
+    </object>
+    <object id="18_69009371" type="text" x="15875.708252903014" y="-40478.9991533625" r="0" s="93.10450163530886" class="body">
+      <height>27.59765625</height>
+      <width>474.41599857441435</width>
+      <p>
+        <text><![CDATA[- Under the guidance of : Dr.R.Bhawana]]></text>
+      </p>
+    </object>
+    <object id="28_69009371" type="button" x="43175.629366013905" y="42941.29525210922" r="0" s="15.631187707073906" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="32_69009371" type="button" x="-4546.165711748693" y="-14175.517909069356" r="0" s="15.552341933669464" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="33_69009371" type="text" x="-4806.979594417673" y="-18334.139168537502" r="0" s="44.372693245283145" class="strong">
+      <height>31.9921875</height>
+      <width>-134.9765625</width>
+      <p>
+        <text><![CDATA[Architecture]]></text>
+      </p>
+    </object>
+    <object id="34_69009371" type="image" x="-4546.027393905196" y="-13936.468447003572" r="0" s="10.902611450251062">
+      <source w="1314" h="610">3928969997<mask x="87" y="0" w="937" h="539"/>
+      <url>3928969997.png</url></source>
+      <sourceUrl>Arch7.png</sourceUrl>
+    <resource><id>3928969997</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/7/a/b55ec3f495f12fe792cc9ebc7f401f8f20d73.png</url></resource></object>
+    <object id="31_69009371" type="text" x="-64210.73449612474" y="5638.1299314869575" r="0" s="16.34004382784415" class="body">
+      <height>82.79296875</height>
+      <width>575.0059925529604</width>
+      <p align="center">
+        <text><![CDATA[Facial features have been categorized into two major categories such as Appearance-based feature extraction and Geometric based feature extraction. ]]></text>
+      </p>
+    </object>
+    <object id="35_69009371" type="text" x="-64210.85459797332" y="3672.9574762624925" r="0" s="16.34004382784415" class="body">
+      <height>82.79296875</height>
+      <width>531.9410579643154</width>
+      <p align="center">
+        <text><![CDATA[Various techniques and approaches have been proposed and developed to classify human emotional state of behavior. ]]></text>
+      </p>
+    </object>
+    <object id="36_69009371" type="text" x="-64210.441540350235" y="8208.432110063079" r="0" s="16.34004382784415" class="body">
+      <height>137.98828125</height>
+      <width>552</width>
+      <p align="center">
+        <text><![CDATA[Microsoft Oxford Project is an API,]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[using which, we can detect face points, like mouth corners, eye locations, closed/open lids and determine a relation between these elements ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[for each mood.]]></text>
+      </p>
+    </object>
+    <object id="30_69009371" type="text" x="43173.48046605631" y="37991.62920763158" r="0" s="44.57897195089705" class="strong">
+      <height>31.9921875</height>
+      <width>-73.37109375</width>
+      <p>
+        <text><![CDATA[Design]]></text>
+      </p>
+    </object>
+    <object id="41_69009371" type="image" x="44342.35122752286" y="41147.469109606594" r="0" s="2.011723665167179">
+      <source w="720" h="1280">4232851025<url>4232851025.png</url></source>
+      <sourceUrl>Black_music_player_song2.png</sourceUrl>
+    <resource><id>4232851025</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/1/8/e6e4b68715644c5a8fd40bb668032b9780949.png</url></resource></object>
+    <object id="43_69009371" type="image" x="41160.88003824396" y="44419.51683078847" r="0" s="2.011723665167179">
+      <source w="720" h="1280">4232852540<url>4232852540.png</url></source>
+      <sourceUrl>Menu_Page_player1.png</sourceUrl>
+    <resource><id>4232852540</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/a/6/73616f91e430fe3ae4e9191f277b25c8b522f.png</url></resource></object>
+    <object id="42_69009371" type="image" x="38713.35602988065" y="42256.960688602856" r="0" s="2.011723665167179">
+      <source w="720" h="1280">4232852378<url>4232852378.png</url></source>
+      <sourceUrl>Black_music_player_home.png</sourceUrl>
+    <resource><id>4232852378</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/a/3/331dee65fa835502e3d078cb7acd11e98f652.png</url></resource></object>
+    <object id="44_69009371" type="image" x="47248.92078774188" y="43864.8606786156" r="0" s="2.0974825240962316">
+      <source w="720" h="1280">4232853542<url>4232853542.png</url></source>
+      <sourceUrl>Black_music_player_song.png</sourceUrl>
+    <resource><id>4232853542</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/4/f/ba0a233fce0aa2fe3cb46c0b95f56bd524aac.png</url></resource></object>
+    <object id="50_69009371" type="image" x="43842.27501287588" y="46812.71516873066" r="0" s="2.165719187368477">
+      <source w="720" h="1280">4232939324<url>4232939324.png</url></source>
+      <sourceUrl>Black_music_player_songs_list.png</sourceUrl>
+    <resource><id>4232939324</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/f/b/dc9910fb9e59a76045719ecf9c12143a6e497.png</url></resource></object>
+    <object id="62_69009371" type="button" x="69252.03030713594" y="31912.35546226013" r="0" s="16.35129494741364" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="51_69009371" type="image" x="66232.80887856457" y="29629.72689083154" r="0" s="5.008913490379047">
+      <source w="805" h="536">4232953922<mask x="0" y="0" w="442" h="536"/>
+      <url>4232953922.png</url></source>
+      <sourceUrl>menu_items.png</sourceUrl>
+    <resource><id>4232953922</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/f/6/637bb598032957aa2126a81a1530113416cf6.png</url></resource></object>
+    <object id="37_69009371" type="button" x="-2176.5751181628757" y="14872.283964147282" r="0" s="17.43244067383025" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="39_69009371" type="button" x="14177.521341061294" y="33774.01571111908" r="0" s="18.513054523026156" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="40_69009371" type="image" x="-2232.4696928640187" y="15134.60546226013" r="0" s="11.26361401842995">
+      <source w="896" h="957">4352196635<url>4352196635.png</url></source>
+      <sourceUrl>Emotion%20Based%20Music%20Player%20UseCaseBW.png</sourceUrl>
+    <resource><id>4352196635</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/2/7/1f6b3830bcae3dc952420a0bc776b57692d37.png</url></resource></object>
+    <object id="45_69009371" type="button" x="19308.32835708972" y="-326.006680594231" r="0" s="16.45480873861343" class="circle">
+      <type>circle</type>
+      <size>
+        <w>855.21875</w>
+        <h>855.21875</h>
+      </size>
+    </object>
+    <object id="52_69009371" type="image" x="19308.830307135962" y="244.10546226012679" r="0" s="10.721215532137709">
+      <source w="920" h="885">4353635324<url>4353635324.png</url></source>
+      <sourceUrl>Emotion%20Based%20Music%20Player%20Class.png</sourceUrl>
+    <resource><id>4353635324</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/8/d/68236c580974afb8523d8447dabb69d3fbad0.png</url></resource></object>
+    <object id="53_69009371" type="image" x="14182.23030713598" y="34582.405462260125" r="0" s="8.794944576351268">
+      <source w="980" h="1145">4353636071<url>4353636071.png</url></source>
+      <sourceUrl>Emotion%20Based%20Music%20Player%20Activity.png</sourceUrl>
+    <resource><id>4353636071</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/8/9/8c247a727ed3508a81ca6fb1ba43f6e6e16a7.png</url></resource></object>
+    <object id="54_69009371" type="text" x="-2254.3028424407794" y="9176.00546226013" r="0" s="30.582173220470043" class="strong">
+      <height>31.9921875</height>
+      <width>-197.19140625</width>
+      <p>
+        <text><![CDATA[Use Case Diagram]]></text>
+      </p>
+    </object>
+    <object id="55_69009371" type="text" x="19167.180307135975" y="-5588.394537739873" r="0" s="44.57897195089705" class="strong">
+      <height>31.9921875</height>
+      <width>-159.328125</width>
+      <p>
+        <text><![CDATA[Class Diagram]]></text>
+      </p>
+    </object>
+    <object id="56_69009371" type="text" x="14800.952901832918" y="28426.324375647397" r="0" s="44.57897195089706" class="strong">
+      <height>31.9921875</height>
+      <width>218.9936765725504</width>
+      <p>
+        <text><![CDATA[Activity Diagram]]></text>
+      </p>
+    </object>
+    <object id="57_69009371" type="text" x="-14813.900436125077" y="34186.57010708963" r="0" s="39.497566331192935" class="strong">
+      <height>31.9921875</height>
+      <width>212.6654671917002</width>
+      <p>
+        <text><![CDATA[Sequence Diagram]]></text>
+      </p>
+    </object>
+    <object id="61_69009371" type="text" x="-81601.01969286404" y="-21622.89453773987" r="0" s="22.469645200316627" class="body">
+      <height>82.79296875</height>
+      <width>410.6</width>
+      <p align="center">
+        <text><![CDATA[Android is a software platform and an operating system based on linux operating system]]></text>
+      </p>
+    </object>
+    <object id="22_69009371" type="text" x="-39603.286367509965" y="27508.105462260133" r="0" s="26.247621327411068" class="body">
+      <height>137.98828125</height>
+      <width>389.2615769302464</width>
+      <p align="center">
+        <text><![CDATA[The system involves the image processing and facial detection processing, uses]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Microsoft Oxford Project Emotion]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[ API for that purpose.]]></text>
+      </p>
+    </object>
+    <object id="58_69009371" type="text" x="35024.74902125925" y="22026.584208720258" r="0" s="4.942863257922867" class="body">
+      <height>82.79296875</height>
+      <width>513.9</width>
+      <p align="center">
+        <text><![CDATA[Songs are read from the MediaStore which keeps itself updated using the MediaScanner provided by the Android OS.]]></text>
+      </p>
+    </object>
+    <object id="59_69009371" type="text" x="37121.88030713599" y="20289.20546226014" r="0" s="2.536470408107397" class="body">
+      <height>55.1953125</height>
+      <width>477.8</width>
+      <p align="center">
+        <text><![CDATA[Categorized songs are displayed in respective fragments as a list.]]></text>
+      </p>
+    </object>
+    <object id="63_69009371" type="image" x="72899.00606879553" y="33029.5340336887" r="0" s="5.432946683762193">
+      <source w="805" h="559">4443836975<mask x="0" y="0" w="550" h="559"/>
+      <url>4443836975.png</url></source>
+      <sourceUrl>Untitled.png</sourceUrl>
+    <resource><id>4443836975</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/7/a/37ecb8ad7d483e9d9209ca31409388abb05dc.png</url></resource></object>
+    <object id="64_69009371" type="image" x="71604.55403315273" y="29304.676890831557" r="0" s="3.8294745864204294">
+      <source w="841" h="561">4443843563<mask x="0" y="0" w="767" h="561"/>
+      <url>4443843563.png</url></source>
+      <sourceUrl>Untitled.png</sourceUrl>
+    <resource><id>4443843563</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/8/4/61c3433a5a4d63cba54621654642e712d28ea.png</url></resource></object>
+    <object id="65_69009371" type="image" x="68794.17316427887" y="35825.71260511727" r="0" s="3.5996271240857145">
+      <source w="529" h="565">4443876638<url>4443876638.png</url></source>
+      <sourceUrl>Untitled.png</sourceUrl>
+    <resource><id>4443876638</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/6/6/5355aad0c0086630de75ca10f007ef64ded38.png</url></resource></object>
+    <object id="66_69009371" type="image" x="65223.28744999314" y="33029.21260511727" r="0" s="3.631766651979337">
+      <source w="708" h="560">4443885572<url>4443885572.png</url></source>
+      <sourceUrl>Untitled.png</sourceUrl>
+    <resource><id>4443885572</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/a/0/86de64bbfb531094deaa25489b747e9b5891c.png</url></resource></object>
+    <object id="67_69009371" type="text" x="68933.63744999311" y="26722.03403368869" r="0" s="31.842122822069324" class="strong">
+      <height>31.9921875</height>
+      <width>-154.55859375</width>
+      <p>
+        <text><![CDATA[Code Snippets]]></text>
+      </p>
+    </object>
+    <object id="69_69009371" type="button" x="57100.48030713598" y="10087.505462260127" r="0" s="22.891812926379092" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="83_69009371" type="image" x="56065.90000000002" y="10087.650000000005" r="0" s="1.5256907231394676">
+      <source w="720" h="1280">4443906278<url>4443906278.png</url></source>
+      <sourceUrl>Screenshot_2016-04-12-14-15-55.png</sourceUrl>
+    <resource><id>4443906278</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/c/5/06ef80a4bcdf540baa8244de1c2f667b1bfda.png</url></resource></object>
+    <object id="85_69009371" type="image" x="62850.55000000001" y="5608.100000000002" r="0" s="1.5256907231394676">
+      <source w="720" h="1280">4443906347<url>4443906347.png</url></source>
+      <sourceUrl>Screenshot_2016-04-12-14-15-51.png</sourceUrl>
+    <resource><id>4443906347</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/c/6/3d507b130f77c91cd6188fcdc1146a74c7ca1.png</url></resource></object>
+    <object id="84_69009371" type="image" x="58338" y="10086.300000000003" r="0" s="1.0171271487596452">
+      <source w="1080" h="1920">4443906314<url>4443906314.png</url></source>
+      <sourceUrl>Screenshot_20160412-141647.png</sourceUrl>
+    <resource><id>4443906314</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/6/a/e0db9ee71532c46808881f9ef4a68c447c66f.png</url></resource></object>
+    <object id="86_69009371" type="image" x="51030.55" y="5606.599999999998" r="0" s="1.5256907231394676">
+      <source w="720" h="1280">4443906689<url>4443906689.png</url></source>
+      <sourceUrl>Screenshot_2016-04-12-14-13-27.png</sourceUrl>
+    <resource><id>4443906689</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/6/1/25f5b984d56de609212c5cad5bad7357bbedd.png</url></resource></object>
+    <object id="90_69009371" type="image" x="57100.45000000002" y="4943.349999999998" r="0" s="1.5256907231394676">
+      <source w="720" h="1280">4443906773<url>4443906773.png</url></source>
+      <sourceUrl>Screenshot_2016-04-12-14-46-16.png</sourceUrl>
+    <resource><id>4443906773</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/1/7/bf3eb8d6710dc7dc14851906b1fc7b0f6910a.png</url></resource></object>
+    <object id="89_69009371" type="image" x="57100.50000000004" y="17037.1" r="0" s="1.5256907231394676">
+      <source w="720" h="1280">4443906764<url>4443906764.png</url></source>
+      <sourceUrl>Screenshot_2016-04-12-14-18-45.png</sourceUrl>
+    <resource><id>4443906764</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/f/6/cce0ff31b415e253f3ef6631115088c1de871.png</url></resource></object>
+    <object id="91_69009371" type="image" x="62264.2" y="15558.599999999995" r="0" s="1.5256907231394676">
+      <source w="720" h="1280">4443906782<url>4443906782.png</url></source>
+      <sourceUrl>Screenshot_2016-04-12-14-19-12.png</sourceUrl>
+    <resource><id>4443906782</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/b/a/33143543345de37f6dd3cae2153145dd6ca2d.png</url></resource></object>
+    <object id="92_69009371" type="image" x="60277.2" y="7851.150000000001" r="0" s="1.5256907231394676">
+      <source w="720" h="1280">4443906953<url>4443906953.png</url></source>
+      <sourceUrl>Screenshot_2016-04-12-14-13-38.png</sourceUrl>
+    <resource><id>4443906953</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/e/e/505265f3d6f4835ff5de583929ea46b11dec4.png</url></resource></object>
+    <object id="88_69009371" type="image" x="60278.79999999999" y="12823.699999999993" r="0" s="1.5256907231394676">
+      <source w="720" h="1280">4443906755<url>4443906755.png</url></source>
+      <sourceUrl>Screenshot_2016-04-12-14-19-09.png</sourceUrl>
+    <resource><id>4443906755</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/9/a/883eae3b91f64322493ccb9068942feadfcf8.png</url></resource></object>
+    <object id="93_69009371" type="image" x="54029.85000000003" y="7851.0999999999985" r="0" s="1.5256907231394676">
+      <source w="720" h="1280">4443907001<url>4443907001.png</url></source>
+      <sourceUrl>Screenshot_2016-04-12-14-13-33.png</sourceUrl>
+    <resource><id>4443907001</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/1/d/6f418ea2dabf122f672f904706a56b972b322.png</url></resource></object>
+    <object id="94_69009371" type="image" x="54030.35" y="12823.949999999999" r="0" s="1.0171271487596452">
+      <source w="1080" h="1920">4443907166<url>4443907166.png</url></source>
+      <sourceUrl>Screenshot_20160412-142258.png</sourceUrl>
+    <resource><id>4443907166</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/4/a/31936111964790c3bc2a82ca26e91102be611.png</url></resource></object>
+    <object id="95_69009371" type="image" x="51833.2" y="15558.59999999999" r="0" s="1.0171271487596452">
+      <source w="1080" h="1920">4443907796<url>4443907796.png</url></source>
+      <sourceUrl>Screenshot_20160412-141802.png</sourceUrl>
+    <resource><id>4443907796</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/9/d/6420dd21d181600047d70fb64d5e8358cbfc5.png</url></resource></object>
+    <object id="96_69009371" type="text" x="57036.79652785108" y="2979.8495818608344" r="0" s="44.57897195089705" class="strong">
+      <height>31.9921875</height>
+      <width>-204.0234375</width>
+      <p>
+        <text><![CDATA[Ouput Screenshots]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="125.80453489008045" fadescale="0.4667853699487066">
+      <object id="background881519381" type="image" x="2240.0306064939036" y="2027.0544560020887" r="0" s="139.01134676307797">
+        <source w="2376" h="1584">881519381<url>881519381.png</url></source>
+        <sourceUrl>Comp-1_5_compressed2.png</sourceUrl>
+      <resource><id>881519381</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/9/2/2186c791a6d5f6804f0887876c394ba67d467.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="57_70923283"/>
+    </s>
+    <s>
+      <eagle o="54_70923283"/>
+    </s>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="3_24309637"/>
+    </s>
+    <s>
+      <eagle o="0_70923283"/>
+    </s>
+    <s>
+      <eagle o="7_70923283"/>
+    </s>
+    <s>
+      <eagle o="7_24309637"/>
+    </s>
+    <s>
+      <eagle o="10_24309637"/>
+    </s>
+    <s>
+      <eagle o="16_24309637"/>
+    </s>
+    <s>
+      <eagle o="11_24309637"/>
+    </s>
+    <s>
+      <eagle o="14_69009371"/>
+    </s>
+    <s>
+      <eagle o="15_69009371"/>
+    </s>
+    <s>
+      <eagle o="32_69009371"/>
+    </s>
+    <s>
+      <eagle o="34_69009371"/>
+    </s>
+    <s>
+      <eagle o="45_69009371"/>
+    </s>
+    <s>
+      <eagle o="52_69009371"/>
+    </s>
+    <s>
+      <eagle o="37_69009371"/>
+    </s>
+    <s>
+      <eagle o="40_69009371"/>
+    </s>
+    <s>
+      <eagle o="38_69009371"/>
+    </s>
+    <s>
+      <eagle o="46_69009371"/>
+    </s>
+    <s>
+      <eagle o="39_69009371"/>
+    </s>
+    <s>
+      <eagle o="53_69009371"/>
+    </s>
+    <s>
+      <eagle o="9_70923283"/>
+    </s>
+    <s>
+      <eagle o="12_70923283"/>
+    </s>
+    <s>
+      <eagle o="30_70923283"/>
+    </s>
+    <s>
+      <eagle o="13_70923283"/>
+    </s>
+    <s>
+      <eagle o="26_70923283"/>
+    </s>
+    <s>
+      <eagle o="29_70923283"/>
+    </s>
+    <s>
+      <eagle o="9_70923283"/>
+    </s>
+    <s>
+      <eagle o="28_69009371"/>
+    </s>
+    <s>
+      <eagle o="42_69009371"/>
+    </s>
+    <s>
+      <eagle o="43_69009371"/>
+    </s>
+    <s>
+      <eagle o="50_69009371"/>
+    </s>
+    <s>
+      <eagle o="41_69009371"/>
+    </s>
+    <s>
+      <eagle o="44_69009371"/>
+    </s>
+    <s>
+      <eagle o="62_69009371"/>
+    </s>
+    <s>
+      <eagle o="51_69009371"/>
+    </s>
+    <s>
+      <eagle o="64_69009371"/>
+    </s>
+    <s>
+      <eagle o="66_69009371"/>
+    </s>
+    <s>
+      <eagle o="65_69009371"/>
+    </s>
+    <s>
+      <eagle o="63_69009371"/>
+    </s>
+    <s>
+      <eagle o="69_69009371"/>
+    </s>
+    <s>
+      <eagle o="90_69009371"/>
+    </s>
+    <s>
+      <eagle o="86_69009371"/>
+    </s>
+    <s>
+      <eagle o="93_69009371"/>
+    </s>
+    <s>
+      <eagle o="92_69009371"/>
+    </s>
+    <s>
+      <eagle o="86_69009371"/>
+    </s>
+    <s>
+      <eagle o="85_69009371"/>
+    </s>
+    <s>
+      <eagle o="83_69009371"/>
+    </s>
+    <s>
+      <eagle o="84_69009371"/>
+    </s>
+    <s>
+      <eagle o="95_69009371"/>
+    </s>
+    <s>
+      <eagle o="83_69009371"/>
+    </s>
+    <s>
+      <eagle o="94_69009371"/>
+    </s>
+    <s>
+      <eagle o="89_69009371"/>
+    </s>
+    <s>
+      <eagle o="88_69009371"/>
+    </s>
+    <s>
+      <eagle o="91_69009371"/>
+    </s>
+    <s>
+      <eagle o="36_70923283"/>
+    </s>
+    <s>
+      <eagle o="42_70923283"/>
+    </s>
+    <s>
+      <eagle o="50_70923283"/>
+    </s>
+    <s>
+      <eagle o="57_70923283"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: custom-arimo;
+	font-class: custom-arimo;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Italic.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: italic;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+.line1
+{
+	borderAlpha: 0;
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line2
+{
+	borderAlpha: 0;
+	borderColor: #80a1b4;
+	color: #80a1b4;
+	gradEndColor: #80a1b4;
+	gradStartColor: #80a1b4;
+}
+
+.line3
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.line4
+{
+	borderAlpha: 0;
+	borderColor: #2596f5;
+	color: #2596f5;
+	gradEndColor: #2596f5;
+	gradStartColor: #2596f5;
+}
+
+.line5
+{
+	borderAlpha: 0;
+	borderColor: #ec3464;
+	color: #ec3464;
+	gradEndColor: #ec3464;
+	gradStartColor: #ec3464;
+}
+
+.poly1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	color: #005f91;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	color: #005f91;
+	gradEndAlpha: .6;
+	gradEndColor: #fff;
+	gradStartAlpha: .6;
+	gradStartColor: #fff;
+}
+
+.poly3
+{
+	borderColor: #333;
+	borderThickness: 0;
+	color: #005f91;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly4
+{
+	borderColor: #2596f5;
+	borderThickness: 0;
+	color: #005f91;
+	gradEndColor: #2596f5;
+	gradStartColor: #2596f5;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderColor: #ec3464;
+	borderThickness: 0;
+	color: #005f91;
+	gradEndColor: #ec3464;
+	gradStartColor: #ec3464;
+}
+
+Background
+{
+	gradEnd: #00517d;
+	gradStart: #006da6;
+}
+
+Grid
+{
+	color: #0078b7;
+}
+
+ZArrow
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 0.8;
+	gradEndColor: #80a1b4;
+	gradStartAlpha: .65;
+	gradStartColor: #2596f5;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #80a1b4;
+	borderThickness: 0;
+	gradEndAlpha: 0.8;
+	gradEndColor: #80a1b4;
+	gradStartAlpha: .65;
+	gradStartColor: #2596f5;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 0.5;
+	gradEndColor: #80a1b4;
+	gradStartAlpha: .35;
+	gradStartColor: #2596f5;
+	thickness: 5;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #214177;
+	background-padding: 20;
+}
+
+ZLabel.head
+{
+	color: #fff;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #214177;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #214177;
+	background-padding: 8;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: 0.9;
+	color: #ec3464;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-3b375ea2</hash>
+<sync><oid>oes7flzuiqwp</oid><title>emotion-based-music-player</title><hash>-3b375ea2</hash></sync><config>hUxdMZ7s8W4t2eXXz3oGl3WZcMJHy1gXdc39A8pcgYcaiDLkewnTqW0Bnysp/ExacYgEvsG1NUztl10BfQB2Yr+foyZxusW03o6a+a/myMblKpZqrpYfGCqFw0anP/HpnBMrBOgtGr8otyXDhaKU9Satd0RDnHM/6HTfY63yK1J7TjVmTb2FvQ8/B0ckzljvFbPh5Ypx89b0DgiLs7mSjFEvbjY9bmbFTizuJk/WaUcUXRZTQKVtsSW/rfFbXUuUWBBGrkl7ibSCjvLCuj5ECAfZD4hDkY+9Nph47umzF08t03clV/qQVSmlbTq1yyyXXWHkz/XRr2nQkDcMo3uIhw==</config></zuiprezi>
